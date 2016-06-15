@@ -1,3 +1,5 @@
+<!-- Hello world testing -->
+
 <project name="AntJavaProject" default="main" basedir=".">
 	<description>
 		Create a Java Project (JAR) with Ant build script
